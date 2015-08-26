@@ -7,7 +7,7 @@ Watson gives two integers (A and B) to Sherlock and asks if he can count the num
 
 Note: A square integer is an integer which is the square of any integer. For example, 1, 4, 9, and 16 are some of the square integers as they are squares of 1, 2, 3, and 4, respectively.
 
-The program must be written on the file [sherlock.js](https://github.com/LIS2051-Programming-Languajes/tarea2/blob/master/sherlock.js) which has the initial input.
+The program must be written on the file [sherlock.js](https://github.com/LIS2051-Programming-Languages/tarea2/blob/master/sherlock.js) which has the initial input.
 
 ## Input Format
 
