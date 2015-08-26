@@ -3,15 +3,18 @@
 
 ## Problem Statement
 
-You're given an array containing integer values. You need to print the fraction of count of positive numbers, negative numbers and zeroes to the total numbers. Print the value of the fractions correct to 3 decimal places.
+Watson gives two integers (A and B) to Sherlock and asks if he can count the number of square integers between A and B (both inclusive).
+
+Note: A square integer is an integer which is the square of any integer. For example, 1, 4, 9, and 16 are some of the square integers as they are squares of 1, 2, 3, and 4, respectively.
 
 The program must be written on the file [sherlock.js](https://github.com/LIS2051-Programming-Languajes/tarea2/blob/master/sherlock.js) which has the initial input.
 
 ## Input Format
 
-A string variable _INPUT is declared, where the first line contains N, which is the size of the array. 
+The cases are stored inside the variable `_INPUT`
 
-Next line contains N integers A1,A2,A3,⋯,AN, separated by space.
+The first line contains T, the number of test cases. T test cases follow, each in a new line. 
+Each test case contains two space-separated integers denoting A and B.
 
 ## Output Format 
 For each test case, print the required answer in a new line.
@@ -19,7 +22,7 @@ For each test case, print the required answer in a new line.
 ## Constraints 
 1≤T≤100 
 
-1≤A≤B≤109
+1≤A≤B≤10^9
 
 ## Sample Input
 ```Shell
